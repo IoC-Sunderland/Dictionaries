@@ -109,3 +109,19 @@ print(my_dict_4) # Phew!
 my_dict_3.clear() # Empty dict
 
 print(my_dict_4) # Phew!
+print('\n')
+
+# Nested dicts
+employees = {
+  "employee_one"   : my_dict_1,
+  "employee_two"   : my_dict_2,
+  "employee_three" : my_dict_3
+}
+
+print(employees)
+print('\n')
+
+# Dict() constructor
+my_dict_5 = dict(named="Mo", age="23", job='Runner')
+
+print(my_dict_5)

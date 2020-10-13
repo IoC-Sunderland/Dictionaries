@@ -1,5 +1,5 @@
 # Dictionaries
-Python dictionaries are broadly equivalant to hashmaps and are unordered, changeable and indexed. Dictionaries consiste of key/value pairs defined in curly braces.
+Python dictionaries are broadly equivalant to hashmaps and are unordered, changeable and indexed. Dictionaries consist of key/value pairs defined in curly braces.
 
 Example:
 

@@ -3,4 +3,4 @@ Python dictionaries are broadly equivalant to hashmaps and are unordered, change
 
 Example:
 
-<img src="img/Dictionary.png" width="200" height ="300">
+<img src="img/Dictionary.png" width="300" height ="300">

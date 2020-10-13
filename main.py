@@ -85,14 +85,6 @@ for employee in combined:
     else:
         pass
 
-# Copying dicts
-# Don't do this
-my_dict_4 = my_dict_3
-
-# Why?
-print(my_dict_4) # {'name': 'Joe', 'age': 50, 'job': 'Farmer'}
-print(my_dict_3) # {'name': 'Joe', 'age': 50, 'job': 'Farmer'}
-
 # Nested dicts
 employees = {
   "employee_one"   : my_dict_1,

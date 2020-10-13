@@ -93,24 +93,6 @@ my_dict_4 = my_dict_3
 print(my_dict_4) # {'name': 'Joe', 'age': 50, 'job': 'Farmer'}
 print(my_dict_3) # {'name': 'Joe', 'age': 50, 'job': 'Farmer'}
 
-my_dict_3.clear() # Empty dict
-
-print(my_dict_4) # {} Whoops! This dict also empty
-
-# Do this instead
-my_dict_3 = {'name': 'Joe',
-           'age': 50,
-           'job': 'Farmer'}
-
-mydict_4 = my_dict_3.copy()
-
-print(my_dict_4) # Phew!
-
-my_dict_3.clear() # Empty dict
-
-print(my_dict_4) # Phew!
-print('\n')
-
 # Nested dicts
 employees = {
   "employee_one"   : my_dict_1,
